@@ -2,7 +2,6 @@ import pygame, sys, time, random
 from pygame.locals import *
 
 pygame.init()
-fpsClock = pygame.time.Clock()
 display = pygame.display.set_mode((640, 480))
 # suface = pygame.Surface((600, 440))
 pygame.display.set_caption('Memory Box')
