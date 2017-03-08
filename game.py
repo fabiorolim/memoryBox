@@ -1,4 +1,10 @@
-import pygame, sys, time, random
+"""
+Minicurso de introdução ao Pygame
+Prof: Fábio Rolim
+IFPI - CAPAU
+"""
+
+import pygame, time, random
 from pygame.locals import *
 
 pygame.init()
